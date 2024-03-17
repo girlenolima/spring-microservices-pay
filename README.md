@@ -20,7 +20,18 @@ Aqui estão algumas características e benefícios-chave dos microserviços:
 
 -  Design Orientado ao Domínio: Os microserviços geralmente são projetados em torno de domínios de negócios específicos, o que pode ajudar a alinhar a arquitetura mais de perto com os requisitos de negócios.
 
-Newman (2015) define que :
-microserviços são pequenos serviços autônomos que trabalham juntos, cada qual como uma
+Newman (2015) define que 
+> Microserviços são pequenos serviços autônomos que trabalham juntos, cada qual como uma
 entidade separada, que pode ser implementado como um serviço isolado em uma plataforma
 como serviço (PAAS).
+
+Martin Fowler define que 
+> Uma aplicação única, desenvolvida como um
+conjunto de pequenos serviços, cada um executando
+o seu próprio processo e se comunicando com
+mecanismos leves, geralmente por API's REST
+através do protocolo HTTP
+
+
+
+
