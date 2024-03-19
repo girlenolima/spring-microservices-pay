@@ -33,5 +33,5 @@ mecanismos leves, geralmente por API's REST
 através do protocolo HTTP
 
 
-
+> Spring boot actuator
 
