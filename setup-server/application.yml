@@ -8,7 +8,7 @@ management:
           include:
             - '*'
 greeting-service:
-  greeting: "ola"
-  default-value: "Mundo - DEV"
+  greeting: "SETUP-SERVE,"
+  default-value: "DEFAULT DO SETUP-SERVE"
 
 

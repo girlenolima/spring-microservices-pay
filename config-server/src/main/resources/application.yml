@@ -3,6 +3,12 @@ server:
 spring:
   application:
     name: config-server
-  profiles:
-    active:
-      - native
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/girlenolima/spring-microservices-pay
+          default-label: main
+          search-paths:
+          - 'setup-server*'
+

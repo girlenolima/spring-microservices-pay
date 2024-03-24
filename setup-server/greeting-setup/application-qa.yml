@@ -9,6 +9,6 @@ management:
             - '*'
 greeting-service:
   greeting: "ola"
-  default-value: "Mundo - QA"
+  default-value: "YML DO QA"
 
 
