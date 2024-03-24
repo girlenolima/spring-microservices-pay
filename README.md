@@ -32,6 +32,8 @@ o seu próprio processo e se comunicando com
 mecanismos leves, geralmente por API's REST
 através do protocolo HTTP
 
-
+----- Explicar depois
 > Spring boot actuator
+> 
+> Spring boot server
 
