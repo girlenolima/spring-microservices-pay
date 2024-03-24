@@ -10,5 +10,5 @@ spring:
           uri: https://github.com/girlenolima/spring-microservices-pay
           default-label: main
           search-paths:
-          - 'setup-server*'
+          - 'setup-server/**'
 
